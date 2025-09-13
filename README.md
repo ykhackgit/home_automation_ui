@@ -31,15 +31,4 @@ A modern, mobile-friendly web dashboard for managing smart home devices, rooms, 
 
 ---
 
-## Tech Stack
-
-- **HTML5 & CSS3**  
-- **TailwindCSS** – for utility-first styling.
-- **Chart.js** – for visualizing daily energy consumption.
-- **Lucide Icons** – lightweight and customizable icons.
-- **Vanilla JavaScript** – for dynamic state management and navigation.
-
----
-
-## Project Structure
 
